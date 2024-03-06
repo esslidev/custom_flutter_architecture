@@ -1,0 +1,9 @@
+{
+  "global": {
+    "greeting": "Salut"
+  },
+  "loginPage": {
+    "headLine": "Connexion à App",
+    "bodyLine": "Et commencez votre voyage."
+  }
+}
