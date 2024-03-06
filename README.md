@@ -1,16 +1,11 @@
-# custom_flutter_architecture
+# Custom Flutter Architecture with BLoCs and Clean Architecture
 
-Flutter architecture incorporating clean architecture principles. This framework is designed by me to ensure a structured and maintainable codebase.
+Welcome to the Custom Flutter Architecture repository! This project serves as a template for building Flutter applications using the BLoC pattern and Clean Architecture principles. By following this architecture, you can create scalable and maintainable Flutter apps with a clear separation of concerns.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **BLoC Pattern**: Utilize the powerful BLoC (Business Logic Component) pattern for managing state and handling interactions in your Flutter applications.
+- **Clean Architecture**: Adhere to Clean Architecture principles, separating concerns into layers (presentation, domain, and data) to achieve better code organization and testability.
+- **Modular Structure**: Organize your codebase into modules based on features or domains to promote code reusability and maintainability.
+- **Dependency Injection**: Implement dependency injection to manage dependencies and facilitate unit testing.
+- **Integration with Packages**: Integrate commonly used packages for state management (flutter_bloc), dependency injection (get_it), and data handling (dio) to streamline the development process.
