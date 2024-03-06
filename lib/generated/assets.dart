@@ -3,11 +3,67 @@ class Assets {
   Assets._();
 
   static const String fontsSpacemonoBold = 'assets/fonts/spacemono-bold.ttf';
-  static const String fontsSpacemonoBoldItalic = 'assets/fonts/spacemono-boldItalic.ttf';
-  static const String fontsSpacemonoItalic = 'assets/fonts/spacemono-italic.ttf';
-  static const String fontsSpacemonoRegular = 'assets/fonts/spacemono-regular.ttf';
+  static const String fontsSpacemonoBoldItalic =
+      'assets/fonts/spacemono-boldItalic.ttf';
+  static const String fontsSpacemonoItalic =
+      'assets/fonts/spacemono-italic.ttf';
+  static const String fontsSpacemonoRegular =
+      'assets/fonts/spacemono-regular.ttf';
+  static const String iconsAdaptiveBackgroundIcon =
+      'assets/icons/adaptive-background-icon.png';
+  static const String iconsAdaptiveForegroundIcon =
+      'assets/icons/adaptive-foreground-icon.png';
+  static const String iconsFacebookIcon = 'assets/icons/facebook-icon.png';
+  static const String iconsFavicon = 'assets/icons/favicon.png';
+  static const String iconsGoogleIcon = 'assets/icons/google-icon.png';
+  static const String iconsIcon = 'assets/icons/icon.png';
+  static const String imagesAstroHelmet = 'assets/images/astro-helmet.png';
+  static const String imagesDefaultProfilePicture =
+      'assets/images/default-profile-picture.png';
+  static const String imagesIntroAstroExplorer =
+      'assets/images/intro-astro-explorer.png';
+  static const String imagesIntroAstroFrontSide =
+      'assets/images/intro-astro-front-side.png';
+  static const String imagesIntroAstroLearn =
+      'assets/images/intro-astro-learn.png';
+  static const String imagesIntroAstroWithCamel =
+      'assets/images/intro-astro-with-camel.png';
+  static const String imagesNewUserEarth = 'assets/images/new-user-earth.png';
+  static const String imagesNewUserYoungAstro =
+      'assets/images/new-user-young-astro.png';
   static const String imagesSplash = 'assets/images/splash.png';
+  static const String translationsAr = 'assets/translations/ar.json';
+  static const String translationsDe = 'assets/translations/de.json';
   static const String translationsEn = 'assets/translations/en.json';
+  static const String translationsEnUk = 'assets/translations/en_uk.json';
   static const String translationsFr = 'assets/translations/fr.json';
-
+  static const String vectorsArabicFlag = 'assets/vectors/arabic-flag.svg';
+  static const String vectorsBackgroundStarsLayer1 =
+      'assets/vectors/background-stars-layer1.svg';
+  static const String vectorsBackgroundStarsLayer2 =
+      'assets/vectors/background-stars-layer2.svg';
+  static const String vectorsBackgroundStarsLayer3 =
+      'assets/vectors/background-stars-layer3.svg';
+  static const String vectorsCloseIcon = 'assets/vectors/close-icon.svg';
+  static const String vectorsEnglishUkFlag =
+      'assets/vectors/english-uk-flag.svg';
+  static const String vectorsEnglishUsFlag =
+      'assets/vectors/english-us-flag.svg';
+  static const String vectorsExploreIcon = 'assets/vectors/explore-icon.svg';
+  static const String vectorsExploreStarsIcon =
+      'assets/vectors/explore-stars-icon.svg';
+  static const String vectorsFrenchFlag = 'assets/vectors/french-flag.svg';
+  static const String vectorsGermanFlag = 'assets/vectors/german-flag.svg';
+  static const String vectorsLearnIcon = 'assets/vectors/learn-icon.svg';
+  static const String vectorsMemoriseIcon = 'assets/vectors/memorise-icon.svg';
+  static const String vectorsMoroccanDarijaFlag =
+      'assets/vectors/moroccan-darija-flag.svg';
+  static const String vectorsMoroccanHassaniaFlag =
+      'assets/vectors/moroccan-hassania-flag.svg';
+  static const String vectorsNewUserFlags =
+      'assets/vectors/language-flags.svg';
+  static const String vectorsProfileIcon = 'assets/vectors/profile-icon.svg';
+  static const String vectorsSearchIcon = 'assets/vectors/search-icon.svg';
+  static const String vectorsTravingloRawObject =
+      'assets/vectors/travinglo-raw-object.svg';
 }
