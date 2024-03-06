@@ -2,6 +2,10 @@
 class Assets {
   Assets._();
 
+  static const String fontsSpacemonoBold = 'assets/fonts/spacemono-bold.ttf';
+  static const String fontsSpacemonoBoldItalic = 'assets/fonts/spacemono-boldItalic.ttf';
+  static const String fontsSpacemonoItalic = 'assets/fonts/spacemono-italic.ttf';
+  static const String fontsSpacemonoRegular = 'assets/fonts/spacemono-regular.ttf';
   static const String imagesSplash = 'assets/images/splash.png';
   static const String translationsEn = 'assets/translations/en.json';
   static const String translationsFr = 'assets/translations/fr.json';
